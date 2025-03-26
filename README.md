@@ -62,11 +62,6 @@ Docker를 이용한 개발 환경을 포함합니다. Docker는 Ubuntu 22.04와 
    source /workspace/ros2_ws/install/setup.bash
    ```
 
-# NodeJS를 활용한 ROS2 Application 개발
-
-- Node.js 23.x
-- rclnodejs
-
 ## 작업 디렉토리 구조
 
 - `/workspace/ros2_ws`: ROS2 워크스페이스
